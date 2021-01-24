@@ -6,7 +6,7 @@ Preview: [Mein React Finder](https://mein-react-finder.netlify.app/)
 
 - [x] Layout
 - [x] Fetch user data from GitHub API
-- [ ] Search for users and repos
+- [x] Search for users and repos
 - [ ] Display user profile
 
 # Getting Started with Create React App
